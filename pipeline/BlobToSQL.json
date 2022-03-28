@@ -1,0 +1,7 @@
+{
+	"name": "BlobToSQL",
+	"properties": {
+		"description": "Pipeline1",
+		"annotations": []
+	}
+}
